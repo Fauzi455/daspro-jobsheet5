@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class Kafe16 {
+    public class Kafe16pertanyaan3 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
         
@@ -51,3 +51,4 @@ System.out.println("Item pembelian " +  menu + " jumlah " + jumlah + " dengan uk
 System.out.println("Nominal bayar: " + nominalBayar);
         }
 }
+
